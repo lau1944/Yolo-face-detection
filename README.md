@@ -32,7 +32,7 @@ The model detects faces and overlay the faces into images
 
 It is just a startup project, we welcome everyone to contribute more useful code !
 
-欢迎大家贡献自己的code！
+欢迎大神们贡献自己的code！
 
 ## Requirement:
 
