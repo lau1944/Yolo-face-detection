@@ -65,5 +65,6 @@ Darknet (for Training)
 
 
 
-
+#THANKS TO 
+https://github.com/sthanhng/yoloface
 
