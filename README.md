@@ -1,6 +1,6 @@
 # Yolo-face-detection
 
-Yolo face detection tool with Image overlay
+Yolo face detection tool with Dog Image overlay
 
 yolo人脸识别，狗头套用 🐶
 
@@ -29,13 +29,16 @@ Darknet (for Training)
 ```
 
 ### Result 
-<img src="https://github.com/lau1944/Yolo-face-detection/blob/master/mlimage.png"/>
+<img src="https://github.com/lau1944/Yolo-face-detection/blob/master/mlimage.png"  width="600"/>
 
 
 ```diff
 + 微信打赏
 ```
 <img src="https://github.com/lau1944/Promotion-App/blob/master/wechat.png" alt="Donate with wechat" width="300"/>
+
+
+
 
 
 ### Origin Work
