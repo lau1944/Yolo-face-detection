@@ -41,5 +41,5 @@ Darknet (for Training)
 
 
 
-### Origin Work
+### Related Work
 https://github.com/abars/YoloKerasFaceDetection
