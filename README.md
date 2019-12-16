@@ -30,7 +30,7 @@ The model detects faces and overlay the faces into images
 
 模型检测到人脸，将人脸转化成图片
 
-Welcome everyone to contribute more useful code !
+It is just a startup project, we welcome everyone to contribute more useful code !
 
 欢迎大家贡献自己的code！
 
@@ -67,5 +67,3 @@ Darknet (for Training)
 
 
 
-### Related Work
-https://github.com/abars/YoloKerasFaceDetection
