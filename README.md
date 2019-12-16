@@ -1,8 +1,8 @@
 # Yolo-face-detection
 
-Yolo face detection tool 
+Yolo face detection tool with Image overlay
 
-yolo人脸识别
+yolo人脸识别，狗头套用 🐶
 
 ```diff
 + Use pre-trained model
@@ -27,7 +27,7 @@ Darknet (for Training)
 ```python
   python model_run.py
 ```
-
+<img src="https://github.com/lau1944/Yolo-face-detection/blob/master/m.png"/>
 
 
 ```diff
