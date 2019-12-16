@@ -27,10 +27,16 @@ Darknet (for Training)
 ```python
   python model_run.py
 ```
-<img src="https://github.com/lau1944/Yolo-face-detection/blob/master/m.png"/>
+
+### Result 
+<img src="https://github.com/lau1944/Yolo-face-detection/blob/master/mlimage.png"/>
 
 
 ```diff
 + 微信打赏
 ```
 <img src="https://github.com/lau1944/Promotion-App/blob/master/wechat.png" alt="Donate with wechat" width="300"/>
+
+
+### Origin Work
+https://github.com/abars/YoloKerasFaceDetection
