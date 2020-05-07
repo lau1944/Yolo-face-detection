@@ -58,10 +58,6 @@ Darknet (for Training)
 <img src="https://github.com/lau1944/Yolo-face-detection/blob/master/mlimage.png"  width="600"/>
 
 
-```diff
-+ 微信打赏
-```
-<img src="https://github.com/lau1944/Promotion-App/blob/master/wechat.png" alt="Donate with wechat" width="200"/>
 
 
 
